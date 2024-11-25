@@ -1,6 +1,7 @@
 var bsppp_8h =
 [
     [ "bsppp::BSP", "d5/dba/classbsppp_1_1BSP.html", "d5/dba/classbsppp_1_1BSP" ],
+    [ "BSPEntity", "d5/d60/bsppp_8h.html#ad650e570de14f09dadc82a551ba50ee1", null ],
     [ "BSPGameLumpID", "d5/d60/bsppp_8h.html#a70c4fb8944e7e8240a591873ec52c2f4", [
       [ "STATIC_PROPS", "d5/d60/bsppp_8h.html#a70c4fb8944e7e8240a591873ec52c2f4a3105ae826ea6a1cbe97049f756cb8a0f", null ],
       [ "DETAIL_PROPS", "d5/d60/bsppp_8h.html#a70c4fb8944e7e8240a591873ec52c2f4ab5e6eb2461e9b16ed249f8e8660dcdb5", null ],

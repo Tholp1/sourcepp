@@ -16,6 +16,7 @@ var namespacebsppp =
     [ "lzma_header_bsplump", "d2/d6c/structbsppp_1_1lzma__header__bsplump.html", "d2/d6c/structbsppp_1_1lzma__header__bsplump" ],
     [ "BSPBrushModel", "dd/d11/namespacebsppp.html#ab641c01a21e113d496ce0922694f0043", null ],
     [ "BSPEdge", "dd/d11/namespacebsppp.html#a1a1261bb6b66ffd2d6b6f2a3a93d774e", null ],
+    [ "BSPEntity", "dd/d11/namespacebsppp.html#ad650e570de14f09dadc82a551ba50ee1", null ],
     [ "BSPFace", "dd/d11/namespacebsppp.html#a5bf7eaa5dd1cb4c39d56ea0a3181bd47", null ],
     [ "BSPPlane", "dd/d11/namespacebsppp.html#a998c6009548d7f71bd30b34daf791a62", null ],
     [ "BSPSurfEdge", "dd/d11/namespacebsppp.html#a4541504db3518c5328611e28087c831d", null ],
