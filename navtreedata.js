@@ -37,8 +37,7 @@ var NAVTREE =
         [ "Functions", "namespacemembers_func.html", null ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ],
-        [ "Enumerations", "namespacemembers_enum.html", null ],
-        [ "Enumerator", "namespacemembers_eval.html", null ]
+        [ "Enumerations", "namespacemembers_enum.html", null ]
       ] ]
     ] ],
     [ "Concepts", "concepts.html", "concepts" ],
@@ -72,22 +71,24 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d0/de9/structvtfpp_1_1ImagePixel_1_1RGBA16161616F.html",
-"d1/dbd/structmdlpp_1_1Movement.html#ad546207a7be4fdc23688d90d5a7c6919",
-"d2/dd2/classvpkpp_1_1PackFile.html#a2df5acc30e128b3ad9c88d8d07d51aec",
-"d3/d80/structvtfpp_1_1Resource.html#a217c96ef66c09133d3020c7799a4e46a",
-"d4/da2/classtoolpp_1_1FGDWriter_1_1EntityWriter.html#a063963f6bb4166c949cc0df11fb25849",
-"d5/d60/bsppp_8h.html#a9cb52214dd23962b3ae112be2b95e2d0a696b031073e74bf2cb98e5ef201d4aa3",
-"d5/d8e/Value_8h.html#af5d3dcc8a6e393d5fd5384c83692ab1ea04442395c6b73c968b77ce08f905728c",
-"d5/dba/classbsppp_1_1BSP.html#aa2bd3d2880f264fa2317fed4e0f43dce",
-"d6/d5b/structvpkpp_1_1EntryOptions.html#af600f1840b79dc26450bf2261232c5d8",
-"d8/d63/structvtfpp_1_1ImagePixel_1_1BGR888.html#aeeb7d84adff6fd1f945636e0169e3dfc",
-"d8/df2/classvtfpp_1_1VTF.html#aa203515ee52f1d82378a4bd97823a51aa31c881b943320bc848338e41aa6a73f7",
-"d9/d81/classsteampp_1_1Steam.html#a2a802e23653125dcc89d9b6f75abb0db",
-"da/db5/structdmxpp_1_1Value_1_1Color.html#a38b36e9ab97faa7378a524c4edbfc2db",
-"dc/da5/PAK_8h.html",
-"de/d21/structmdlpp_1_1BakedModel.html",
-"df/d32/classvtfpp_1_1PPL.html#a7316c1295e66941651b550468b8d8714"
+"d0/dcf/structtoolpp_1_1FGD_1_1AutoVisGroup.html#a912351343460c9f6ad4feb7a0fb4d073",
+"d1/da5/classvpkpp_1_1WAD3.html#aa09c72dc530570d21db8f7c311c7dbdc",
+"d2/dd1/BSP_8h.html#a9cb52214dd23962b3ae112be2b95e2d0a13e0a3d98379f31a91e563053119da54",
+"d3/d08/structvpkpp_1_1GCF_1_1Header.html#adf7c4c73da43f07330e212d5059d11dd",
+"d3/dec/classvpkpp_1_1OO7.html#af630c8ee72e32ad4a057bfd97c95c65f",
+"d4/ddb/classvpkpp_1_1VPK__VTMB.html#aa70fdb30e765f272b19741e545803490",
+"d5/d7f/structvtfpp_1_1ImagePixel_1_1BGRA8888.html",
+"d5/daa/structmdlpp_1_1MDL_1_1MDL.html#aa81fef9b54d95b499a1b45c2305d8603",
+"d6/d21/structsourcepp_1_1math_1_1Vec.html",
+"d7/d45/namespacedmxpp_1_1Value.html#af5d3dcc8a6e393d5fd5384c83692ab1ea81a86551f854e526976db5b2d04a705d",
+"d8/d85/structbsppp_1_1BSPFace__v2.html",
+"d8/df2/classvtfpp_1_1VTF.html#aa203515ee52f1d82378a4bd97823a51aa57cafcb8f30645fded40b9a91a2b27ca",
+"d9/d81/classsteampp_1_1Steam.html#a361adb136b3fc399919c111fb5bb3768",
+"da/d42/classvpkpp_1_1FPX.html#a5029e76dfe66633383e3db402c5f6068",
+"dc/d00/namespacevcryptpp_1_1VICE.html#a67fe4c362e00e3e7355a4883850675f0",
+"dd/d73/namespacevtfpp_1_1ImagePixel.html#a71f7f6e4d33832fd03376d54068e122d",
+"de/da1/structvtfpp_1_1ImagePixel_1_1R32F.html#a2e0eb6271ca1bd9e09b9f3d4d0bc3a46",
+"functions_vars_x.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

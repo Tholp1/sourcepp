@@ -4,16 +4,18 @@ var hierarchy =
     [ "bsppp::BSPBrushModel_v0", "d3/db0/structbsppp_1_1BSPBrushModel__v0.html", null ],
     [ "bsppp::BSPEdge_v0", "d8/d16/structbsppp_1_1BSPEdge__v0.html", null ],
     [ "bsppp::BSPEdge_v1", "dd/d95/structbsppp_1_1BSPEdge__v1.html", null ],
+    [ "bsppp::BSPEntityKeyValues", "d7/db2/classbsppp_1_1BSPEntityKeyValues.html", null ],
+    [ "bsppp::BSPEntityKeyValues::Element", "d8/d1b/classbsppp_1_1BSPEntityKeyValues_1_1Element.html", null ],
     [ "bsppp::BSPFace_v1", "d6/d98/structbsppp_1_1BSPFace__v1.html", null ],
     [ "bsppp::BSPFace_v2", "d8/d85/structbsppp_1_1BSPFace__v2.html", null ],
     [ "bsppp::BSPGameLump", "d6/d07/structbsppp_1_1BSPGameLump.html", null ],
+    [ "bsppp::BSPNode_v0", "d8/d37/structbsppp_1_1BSPNode__v0.html", null ],
+    [ "bsppp::BSPNode_v1", "d7/dd7/structbsppp_1_1BSPNode__v1.html", null ],
     [ "bsppp::BSPPlane_v0", "d8/de4/structbsppp_1_1BSPPlane__v0.html", null ],
     [ "bsppp::BSPSurfEdge_v0", "df/d2e/structbsppp_1_1BSPSurfEdge__v0.html", null ],
     [ "bsppp::BSPTextureData_v0", "d1/d93/structbsppp_1_1BSPTextureData__v0.html", null ],
     [ "bsppp::BSPTextureInfo_v0", "d3/d0f/structbsppp_1_1BSPTextureInfo__v0.html", null ],
     [ "bsppp::BSPVertex_v0", "d2/d27/structbsppp_1_1BSPVertex__v0.html", null ],
-    [ "bsppp::lzma_header_alone", "d8/d1f/structbsppp_1_1lzma__header__alone.html", null ],
-    [ "bsppp::lzma_header_bsplump", "d2/d6c/structbsppp_1_1lzma__header__bsplump.html", null ],
     [ "dmxpp::DMX", "d1/d5f/classdmxpp_1_1DMX.html", null ],
     [ "dmxpp::DMXAttribute", "dc/d56/structdmxpp_1_1DMXAttribute.html", null ],
     [ "dmxpp::DMXElement", "d4/d6d/structdmxpp_1_1DMXElement.html", null ],
@@ -114,7 +116,10 @@ var hierarchy =
       [ "vpkpp::PAK", "d9/daf/classvpkpp_1_1PAK.html", null ],
       [ "vpkpp::PCK", "d5/db5/classvpkpp_1_1PCK.html", null ],
       [ "vpkpp::PackFileReadOnly", "de/df6/classvpkpp_1_1PackFileReadOnly.html", [
-        [ "vpkpp::GCF", "d1/d01/classvpkpp_1_1GCF.html", null ]
+        [ "vpkpp::GCF", "d1/d01/classvpkpp_1_1GCF.html", null ],
+        [ "vpkpp::OL", "d4/d47/classvpkpp_1_1OL.html", null ],
+        [ "vpkpp::OO7", "d3/dec/classvpkpp_1_1OO7.html", null ],
+        [ "vpkpp::ORE", "d8/d00/classvpkpp_1_1ORE.html", null ]
       ] ],
       [ "vpkpp::VPK", "d5/d8b/classvpkpp_1_1VPK.html", [
         [ "vpkpp::FPX", "da/d42/classvpkpp_1_1FPX.html", null ]
@@ -122,7 +127,7 @@ var hierarchy =
       [ "vpkpp::VPK_VTMB", "d4/ddb/classvpkpp_1_1VPK__VTMB.html", null ],
       [ "vpkpp::WAD3", "d1/da5/classvpkpp_1_1WAD3.html", null ],
       [ "vpkpp::ZIP", "da/de7/classvpkpp_1_1ZIP.html", [
-        [ "vpkpp::BSP", "d2/da8/classvpkpp_1_1BSP.html", null ]
+        [ "bsppp::PakLump", "d4/daf/classbsppp_1_1PakLump.html", null ]
       ] ]
     ] ],
     [ "vpkpp::PCK::Header", "d5/da3/structvpkpp_1_1PCK_1_1Header.html", null ],
@@ -169,6 +174,10 @@ var hierarchy =
     [ "vtfpp::PPL", "df/d32/classvtfpp_1_1PPL.html", null ],
     [ "vtfpp::PPL::Image", "d1/dc9/structvtfpp_1_1PPL_1_1Image.html", null ],
     [ "vtfpp::Resource", "d3/d80/structvtfpp_1_1Resource.html", null ],
+    [ "vtfpp::SHT", "db/dde/classvtfpp_1_1SHT.html", null ],
+    [ "vtfpp::SHT::Sequence", "d3/d32/structvtfpp_1_1SHT_1_1Sequence.html", null ],
+    [ "vtfpp::SHT::Sequence::Frame", "d0/d5e/structvtfpp_1_1SHT_1_1Sequence_1_1Frame.html", null ],
+    [ "vtfpp::SHT::Sequence::Frame::Bounds", "db/d04/structvtfpp_1_1SHT_1_1Sequence_1_1Frame_1_1Bounds.html", null ],
     [ "vtfpp::VTF", "d8/df2/classvtfpp_1_1VTF.html", null ],
     [ "vtfpp::VTF::CreationOptions", "d3/d2b/structvtfpp_1_1VTF_1_1CreationOptions.html", null ]
 ];

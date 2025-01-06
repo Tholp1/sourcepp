@@ -234,14 +234,14 @@ Included Libraries</h2>
     <td align="center">❌</td>
   </tr>
   <tr>
-    <td rowspan="13"><code>vpkpp</code></td>
-    <td><a href="https://developer.valvesoftware.com/wiki/Bonus_Maps">BMZ</a></td>
+    <td rowspan="15"><code>vpkpp</code></td>
+    <td>007 v1.1, v1.3 (007 - Nightfire)</td>
     <td align="center">✅</td>
-    <td align="center">✅</td>
-    <td rowspan="13" align="center">C<br>C#</td>
+    <td align="center">❌</td>
+    <td rowspan="15" align="center">C<br>C#</td>
   </tr>
   <tr>
-    <td><a href="https://developer.valvesoftware.com/wiki/BSP_(Source)">BSP</a> v17-27</td>
+    <td><a href="https://developer.valvesoftware.com/wiki/Bonus_Maps">BMZ</a></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
   </tr>
@@ -261,7 +261,20 @@ Included Libraries</h2>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td><a href="https://quakewiki.org/wiki/.pak">PAK</a> (Quake, WON Half-Life)</td>
+    <td>OL (Worldcraft Object Library)</td>
+    <td align="center">✅</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td>ORE (Narbacular Drop)</td>
+    <td align="center">✅</td>
+    <td align="center">❌</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://quakewiki.org/wiki/.pak">PAK</a> (Quake, WON Half-Life)
+      <br> &bull; <a href="https://store.steampowered.com/app/824600/HROT">HROT</a> modifications
+    </td>
     <td align="center">✅</td>
     <td align="center">✅</td>
   </tr>
@@ -305,11 +318,16 @@ Included Libraries</h2>
     <td align="center">✅</td>
   </tr>
   <tr>
-    <td rowspan="12"><code>vtfpp</code></td>
+    <td rowspan="14"><code>vtfpp</code></td>
+    <td><a href="https://wiki.mozilla.org/APNG_Specification">APNG</a></td>
+    <td align="center">✅</td>
+    <td align="center">❌</td>
+    <td rowspan="14" align="center">Python</td>
+  </tr>
+  <tr>
     <td><a href="https://en.wikipedia.org/wiki/BMP_file_format">BMP</a></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td rowspan="12" align="center">Python</td>
   </tr>
   <tr>
     <td><a href="https://openexr.com">EXR</a> v1</td>
@@ -357,6 +375,11 @@ Included Libraries</h2>
     <td align="center">❌</td>
   </tr>
   <tr>
+    <td><a href="https://developer.valvesoftware.com/wiki/Animated_Particles">SHT</a> v0-1</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+  </tr>
+  <tr>
     <td><a href="https://en.wikipedia.org/wiki/Truevision_TGA">TGA</a></td>
     <td align="center">✅</td>
     <td align="center">✅</td>
@@ -380,9 +403,14 @@ Wrappers</h2>
 Special Thanks</h2>
 <ul>
 <li><code>steampp</code> is based on the <a href="https://github.com/Trico-Everfire/SteamAppPathProvider">SteamAppPathProvider</a> library by <a href="https://github.com/Trico-Everfire">@Trico Everfire</a> and <a href="https://momentum-mod.org">Momentum Mod</a> contributors.</li>
+<li><code>vpkpp</code>'s 007 parser is based on <a href="https://raw.githubusercontent.com/SmileyAG/dumpster/refs/heads/src_jb007nightfirepc_alurazoe/file_format_analysis.txt">reverse-engineering work</a> by Alhexx.</li>
 <li><code>vpkpp</code>'s GCF parser was contributed by <a href="https://github.com/caatge">@bt</a> and <a href="https://github.com/ymgve">@ymgve</a>.</li>
-<li><code>vpkpp</code>'s WAD3 parser was contributed by <a href="https://github.com/ozxybox">@ozxybox</a>.</li>
-<li><code>vtfpp</code>'s write support is based on work by <a href="https://github.com/Trico-Everfire">@Trico Everfire</a>.</li>
+<li><code>vpkpp</code>'s OL parser is based on <a href="https://github.com/erysdren/scratch/blob/main/kaitai/worldcraft_ol.ksy">reverse-engineering work</a> by <a href="https://github.com/erysdren">@erysdren</a>.</li>
+<li><code>vpkpp</code>'s ORE parser is based on <a href="https://github.com/erysdren/narbacular-drop-tools">reverse-engineering work</a> by <a href="https://github.com/erysdren">@erysdren</a>.</li>
+<li><code>vpkpp</code>'s WAD3 parser/writer was contributed by <a href="https://github.com/ozxybox">@ozxybox</a>.</li>
+<li><code>vtfpp</code>'s SHT parser/writer was contributed by <a href="https://github.com/Trico-Everfire">@Trico Everfire</a>.</li>
+<li><code>vtfpp</code>'s VTF write support is loosely based on work by <a href="https://github.com/Trico-Everfire">@Trico Everfire</a>.</li>
+<li><code>vtfpp</code>'s HDRI to cubemap conversion code is modified from the <a href="https://github.com/ivarout/HdriToCubemap">HdriToCubemap</a> library by <a href="https://github.com/ivarout">@ivarout</a>.</li>
 </ul>
 <h2><a class="anchor" id="autotoc_md3"></a>
 Gallery</h2>

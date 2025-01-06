@@ -2,8 +2,8 @@ var searchData=
 [
   ['bspbrushmodel_0',['BSPBrushModel',['../dd/d11/namespacebsppp.html#ab641c01a21e113d496ce0922694f0043',1,'bsppp']]],
   ['bspedge_1',['BSPEdge',['../dd/d11/namespacebsppp.html#a1a1261bb6b66ffd2d6b6f2a3a93d774e',1,'bsppp']]],
-  ['bspentity_2',['BSPEntity',['../dd/d11/namespacebsppp.html#ad650e570de14f09dadc82a551ba50ee1',1,'bsppp']]],
-  ['bspface_3',['BSPFace',['../dd/d11/namespacebsppp.html#a5bf7eaa5dd1cb4c39d56ea0a3181bd47',1,'bsppp']]],
+  ['bspface_2',['BSPFace',['../dd/d11/namespacebsppp.html#a5bf7eaa5dd1cb4c39d56ea0a3181bd47',1,'bsppp']]],
+  ['bspnode_3',['BSPNode',['../dd/d11/namespacebsppp.html#a5a555a16829995173c8c3d6f30e06534',1,'bsppp']]],
   ['bspplane_4',['BSPPlane',['../dd/d11/namespacebsppp.html#a998c6009548d7f71bd30b34daf791a62',1,'bsppp']]],
   ['bspsurfedge_5',['BSPSurfEdge',['../dd/d11/namespacebsppp.html#a4541504db3518c5328611e28087c831d',1,'bsppp']]],
   ['bsptexturedata_6',['BSPTextureData',['../dd/d11/namespacebsppp.html#a685379b9ab1fdb2ec9f51b59dc660dea',1,'bsppp']]],
