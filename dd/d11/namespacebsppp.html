@@ -312,6 +312,9 @@ Variables</h2></td></tr>
 <tr class="separator:afe0d0c44fc4e9356ec9b8b989f321b56"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9bc64d24afcbeda0818b5d86a4ae1163"><td class="memItemLeft" align="right" valign="top">constexpr int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d11/namespacebsppp.html#a9bc64d24afcbeda0818b5d86a4ae1163">BSP_LUMP_COUNT</a> = 64</td></tr>
 <tr class="separator:a9bc64d24afcbeda0818b5d86a4ae1163"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f98c313e147fe64c58acfa79fec4956"><td class="memItemLeft" align="right" valign="top">constexpr std::array&lt; uint32_t, 64 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d11/namespacebsppp.html#a3f98c313e147fe64c58acfa79fec4956">BSP_LUMP_ORDER</a></td></tr>
+<tr class="memdesc:a3f98c313e147fe64c58acfa79fec4956"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pulled from Portal 2, map e1912.  <br /></td></tr>
+<tr class="separator:a3f98c313e147fe64c58acfa79fec4956"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abdcd63d573ade86572992d52c6f26412"><td class="memItemLeft" align="right" valign="top">constexpr std::string_view&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d11/namespacebsppp.html#abdcd63d573ade86572992d52c6f26412">BSP_EXTENSION</a> = &quot;.bsp&quot;</td></tr>
 <tr class="separator:abdcd63d573ade86572992d52c6f26412"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -615,6 +618,43 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d2/dd1/BSP_8h_source.html#l00108">108</a> of file <a class="el" href="../../d2/dd1/BSP_8h_source.html">BSP.h</a>.</p>
+
+</div>
+</div>
+<a id="a3f98c313e147fe64c58acfa79fec4956" name="a3f98c313e147fe64c58acfa79fec4956"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f98c313e147fe64c58acfa79fec4956">&#9670;&#160;</a></span>BSP_LUMP_ORDER</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr std::array&lt;uint32_t, 64&gt; bsppp::BSP_LUMP_ORDER</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">{</div>
+<div class="line">    25, 24, 32, 57, 49, 59,  6,  2,</div>
+<div class="line">    43, 44, 10, 17,  1, 18, 19, 14,</div>
+<div class="line">     5, 20, 21,  4,  0, 29, 26, 62,</div>
+<div class="line">     3, 12, 13,  7, 58, 33, 48, 63,</div>
+<div class="line">    28,  9,  8, 53, 37, 38, 39, 30,</div>
+<div class="line">    31, 56, 52, 51, 55, 16, 36, 45,</div>
+<div class="line">    50, 60, 61, 46, 42, 41, 54, 15,</div>
+<div class="line">    34, 47, 11, 22, 23, 27, 35, 40,</div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p>Pulled from Portal 2, map e1912. </p>
+<p>This is not a given for every game or even map, and obviously lump order doesn't matter one bit, but we do at least want the paklump to be at the end since it commonly grows and shrinks. </p>
+
+<p class="definition">Definition at line <a class="el" href="../../d2/dd1/BSP_8h_source.html#l00113">113</a> of file <a class="el" href="../../d2/dd1/BSP_8h_source.html">BSP.h</a>.</p>
 
 </div>
 </div>

@@ -73,22 +73,22 @@ var NAVTREEINDEX =
 "annotated.html",
 "d0/dcf/structtoolpp_1_1FGD_1_1AutoVisGroup.html#a912351343460c9f6ad4feb7a0fb4d073",
 "d1/da5/classvpkpp_1_1WAD3.html#aa09c72dc530570d21db8f7c311c7dbdc",
-"d2/dd1/BSP_8h.html#a9cb52214dd23962b3ae112be2b95e2d0a13e0a3d98379f31a91e563053119da54",
+"d2/dd1/BSP_8h.html#a9cb52214dd23962b3ae112be2b95e2d0a0f4e64d97cf1c5a022ef25fc8f9d22a1",
 "d3/d08/structvpkpp_1_1GCF_1_1Header.html#adf7c4c73da43f07330e212d5059d11dd",
-"d3/dec/classvpkpp_1_1OO7.html#af630c8ee72e32ad4a057bfd97c95c65f",
+"d3/dec/classvpkpp_1_1OO7.html#ade6cbb085bbd261d8e93d12856a7d587",
 "d4/ddb/classvpkpp_1_1VPK__VTMB.html#aa70fdb30e765f272b19741e545803490",
 "d5/d7f/structvtfpp_1_1ImagePixel_1_1BGRA8888.html",
 "d5/daa/structmdlpp_1_1MDL_1_1MDL.html#aa81fef9b54d95b499a1b45c2305d8603",
-"d6/d21/structsourcepp_1_1math_1_1Vec.html",
-"d7/d45/namespacedmxpp_1_1Value.html#af5d3dcc8a6e393d5fd5384c83692ab1ea81a86551f854e526976db5b2d04a705d",
+"d6/d07/structbsppp_1_1BSPGameLump.html#ab5ff8d7ba65cf5a261cd19f21d159e71",
+"d7/d45/namespacedmxpp_1_1Value.html#af5d3dcc8a6e393d5fd5384c83692ab1ea7baf723b2a575ce54a6013d4264c080f",
 "d8/d85/structbsppp_1_1BSPFace__v2.html",
-"d8/df2/classvtfpp_1_1VTF.html#aa203515ee52f1d82378a4bd97823a51aa57cafcb8f30645fded40b9a91a2b27ca",
-"d9/d81/classsteampp_1_1Steam.html#a361adb136b3fc399919c111fb5bb3768",
-"da/d42/classvpkpp_1_1FPX.html#a5029e76dfe66633383e3db402c5f6068",
-"dc/d00/namespacevcryptpp_1_1VICE.html#a67fe4c362e00e3e7355a4883850675f0",
-"dd/d73/namespacevtfpp_1_1ImagePixel.html#a71f7f6e4d33832fd03376d54068e122d",
-"de/da1/structvtfpp_1_1ImagePixel_1_1R32F.html#a2e0eb6271ca1bd9e09b9f3d4d0bc3a46",
-"functions_vars_x.html"
+"d8/df2/classvtfpp_1_1VTF.html#aa203515ee52f1d82378a4bd97823a51aa36e13f096b1a59fe5e0039d58591a4ef",
+"d9/d81/classsteampp_1_1Steam.html#a2a802e23653125dcc89d9b6f75abb0db",
+"da/d42/classvpkpp_1_1FPX.html#a22d40a53f1b50226d2b89609d98d2755",
+"dc/d00/namespacevcryptpp_1_1VICE.html",
+"dd/d73/namespacevtfpp_1_1ImagePixel.html#a6e9cedf432d59e0576668c532a122ff0",
+"de/da1/structvtfpp_1_1ImagePixel_1_1R32F.html",
+"functions_vars_v.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
